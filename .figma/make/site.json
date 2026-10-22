@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning, professional landing pages with eye-catching designs and AI-enhanced features, perfect for businesses looking to boost conversions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
